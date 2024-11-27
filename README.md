@@ -1,4 +1,4 @@
-# Portfolio Website
+# Portfolio Ana Bartos
 This project is a personal portfolio website built using React and styled with Tailwind CSS. It leverages Framer Motion for smooth animations and transitions, and several additional libraries to enhance functionality and appearance.
 
 ## Features
@@ -39,9 +39,8 @@ Custom assets: Includes profile pictures, project images, and a logo.
 ## Installation & Setup
 Clone the repository:
 ``bash
-git clone <repository-url>
-```
-
+git clone (https://github.com/anabartos/Portfolio-AnaBartos.git)
+``
 Navigate to the project directory:
 ``bash
 cd portfolio-website
