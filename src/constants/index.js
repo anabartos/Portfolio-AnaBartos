@@ -9,14 +9,15 @@ export const HERO_CONTENT =
 
 
 
-export const ABOUT_TEXT = `Hi, I'm Ana Bartos—a full stack developer with a strong focus on front-end development. Passionate about user interaction and design, I transitioned to tech after 15 years as a physiotherapist. This journey was driven by my love for problem-solving, creativity, and the desire to craft intuitive digital experiences that positively impact users. My unique background blends empathy, a user-centered mindset, and technical expertise with tools like HTML, CSS, JavaScript, TypeScript, and React. Welcome to my portfolio!`;
-   
+export const ABOUT_TEXT = `
+  Hi, I'm Ana Bartos—a Full Stack Developer specializing in Front End, skilled in HTML, CSS, React, JavaScript, TypeScript, Tailwind CSS, and Bootstrap, with end-to-end development experience using Node.js and Python. Currently enhancing my UX/UI design expertise with Figma, I bring empathy, teamwork, and communication skills from my background as a physiotherapist, ensuring client-focused and innovative solutions. Committed to continuous learning and delivering impactful results.`
+     
 
 export const EXPERIENCES = [
  
   {
     year: "2023 - Present",
-    role: "Fulls stack developer in training",
+    role: "Full stack developer in training",
     company: "Freelance",
     description: `Currently enhancing my skills in front-end and full stack development, with knowledge of HTML, CSS, JavaScript, TypeScript, and React. I’m committed to continuous learning and practical application of these technologies through personal projects and hands-on practice. Actively working on understanding design principles, problem-solving, and developing user-centered digital solutions.`,
     technologies: ["HTML", "CSS", "JavaScript", "TypeScript", "Python"],

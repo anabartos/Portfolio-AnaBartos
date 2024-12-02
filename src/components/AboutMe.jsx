@@ -25,7 +25,7 @@ const AboutMe = () => {
             variants={container(0)}
             initial="hidden"
             animate="visible"
-            className="text-[rgb(194,119,102)] font-bold text-2xl lg:text-4xl mb-3 text-center"
+            className="text-[rgb(194,119,102)] font-bold text-2xl lg:text-3xl mb-3 text-center"
           >
             ABOUT ME
           </motion.h1>

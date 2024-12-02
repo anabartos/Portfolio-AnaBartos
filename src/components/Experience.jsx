@@ -41,7 +41,7 @@ const Experience = () => {
                 </motion.p>
               </div>
 
-              <div className="lg:col-span-9 p-4">
+              <div className="lg:col-span-9 lg:p-4">
                 <h6 className="mb-2 font-semibold uppercase">
                   {experience.role} -{" "}
                   <span className="text-sm text-stone-900">{experience.company}</span>
